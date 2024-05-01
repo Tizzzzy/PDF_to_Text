@@ -26,6 +26,7 @@ To run this tool, you need Python 3.7 or later. You will also need to install se
 
 ### Installation
 To install Poppler, follow the instructions specific to your operating system. You can find the instructions on the [Poppler](https://poppler.freedesktop.org/).
+- You should install poppler version 23.11.0 in your local machine, and add the path to `poppler_path` in the code. For example: `poppler_path = r'C:\Program Files\poppler-23.11.0\Library\bin'`
 
 To install Tesseract-OCR, follow the instructions specific to your operating system. You can find the instructions on the [Tesseract GitHub page](https://github.com/tesseract-ocr/tesseract).
 
