@@ -39,7 +39,7 @@ pip install PyPDF2 pdfminer.six pdfplumber Pillow pytesseract opencv-python nump
 
 ### Clone this repository to your local machine.
 ```bash
-git clone https://github.com/yourusername/pdf-text-extractor-ocr.git
+git clone https://github.com/Tizzzzy/PDF_to_Text.git
 ```
 
 ### Navigate to the cloned directory and install the required libraries.
